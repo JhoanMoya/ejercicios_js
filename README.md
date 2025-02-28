@@ -3,6 +3,4 @@
 Este repositorio contiene ejercicios de JavaScript para practicar programación.
 
 ## Contenido
-- Ejercicios básicos de JavaScript.
-- Ejemplos de código.
-- Proyectos pequeños.
+- [hola_mundo.js](ejercicios/hola_mundo.js): Un programa simple que imprime "¡Hola, mundo!" en la consola.
