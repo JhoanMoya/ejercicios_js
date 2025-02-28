@@ -1,2 +1,8 @@
-# ejercicios_js
-Este repositorio está dedicado a proyectos, ejercicios y prácticas relacionadas exclusivamente con JavaScript (JS). Aquí subiré código, ejemplos y proyectos personales para mejorar mis habilidades en JS, explorar conceptos avanzados y compartir soluciones a problemas comunes.
+# Ejercicios de JavaScript
+
+Este repositorio contiene ejercicios de JavaScript para practicar programación.
+
+## Contenido
+- Ejercicios básicos de JavaScript.
+- Ejemplos de código.
+- Proyectos pequeños.
